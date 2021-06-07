@@ -1,4 +1,4 @@
-## Welcome to GitHub Games by tommy!
+## Welcome to GitHub Games by tommy update!
 
 A project based learning activity for people who are getting started with Git and GitHub.
 
